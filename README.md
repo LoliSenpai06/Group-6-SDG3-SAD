@@ -69,7 +69,7 @@ Vhone Sildo - All Dashboards, Database, Testing
 
 ---
 
-## Installation Guide
+**## Installation Guide**
 
 ### Step 1: Install Required Software
 
