@@ -10,7 +10,7 @@ This project directly contributes to **SDG 3 - Ensure healthy lives and promote 
 
 --
 
-**##Problem Statement**
+**## Problem Statement**
 
 Barangay health centers currently rely on **manual processes** including handwritten logbooks, and small notebooks to manage patient appointments and records. These informal systems lead to:
 
@@ -23,7 +23,7 @@ Barangay health centers currently rely on **manual processes** including handwri
 This system provides a **digital solution** that automates patient management, appointment scheduling, medical records, and LGU reporting.
 
 
-## Project Overview
+**## Project Overview**
 
 The **Barangay Clinic Management System** is a web-based application designed to digitize and streamline healthcare management for barangay health centers. The system automates patient registration, appointment booking, medical records management, and Local Government Unit (LGU) reporting.
 
