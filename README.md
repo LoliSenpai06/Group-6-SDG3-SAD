@@ -1,4 +1,4 @@
-### Barangay -Clinic Management System-
+### Barangay Clinic Management System
 
 **SDG Goal 3: Good Health and Well-being**
 
