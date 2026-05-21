@@ -36,7 +36,7 @@ The **Barangay Clinic Management System** is a web-based application designed to
 
 ---
 
- Contributing
+ **Contribution**
 All group members have commit access to this repository. Each member has made significant contributions to their assigned modules.
 
 Paolo Basas - DFD Diagrams, System Objective, Documentation
