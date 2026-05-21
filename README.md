@@ -58,7 +58,7 @@ C:\xampp\htdocs\brgy_clinic\
 ### Step 4: Import Database
 
 1. Open browser and go to: `http://localhost/phpmyadmin`
-2. Click **New** to create a database named `barangay_system.`
+2. Click **New** to create a database named `barangay_system`
 3. Click **Import** tab
 4. Choose file: `barangay_system.sql` from the `SYSTEM_SOURCE_CODE` folder
 5. Click **Go**
