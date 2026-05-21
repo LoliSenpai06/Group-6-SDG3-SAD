@@ -3,7 +3,7 @@
 **SDG Goal 3: Good Health and Well-being**
 
 This project directly contributes to **SDG 3 - Ensure healthy lives and promote well-being for all at all ages** by:
-- Improving access to quality healthcare services at the barangay leve
+- Improving access to quality healthcare services at the barangay level
 - Digitizing patient records for better continuity of care
 - Reducing appointment waiting times and eliminating double booking
 - Supporting Local Government Units in health program monitoring and reporting
