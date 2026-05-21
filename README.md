@@ -57,7 +57,7 @@ Vhone Sildo - All Dashboards, Database, Testing
 | **Staff** | staff | staff123 | View residents, generate LGU reports |
 
 
-## Technology Stack
+**## Technology Stack**
 
 | Layer | Technology |
 |-------|------------|
