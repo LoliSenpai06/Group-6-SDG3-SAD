@@ -47,7 +47,7 @@ Rafael Sanchez - Login Page, UI/UX Design, Authentication
 
 Vhone Sildo - All Dashboards, Database, Testing
 
-## User Roles
+**## User Roles**
 
 | Role | Username | Password | Access |
 |------|----------|----------|--------|
