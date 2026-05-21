@@ -100,7 +100,7 @@ Open **XAMPP Control Panel** and start:
 3. Select `utf8_general_ci` as collation
 4. Click **Create**
 5. Click **Import** tab
-6. Click **Choose File** and select `brgy_clinic.sql` from your project folder
+6. Click **Choose File** and select `brgy_system.sql` from your project folder
 7. Click **Go**
 
 ---
@@ -114,7 +114,7 @@ Open `config/database.php` in VS Code and verify settings:
 $host = 'localhost';
 $user = 'root';
 $pass = '';
-$dbname = 'barangay_clinic';
+$dbname = 'brgy_system';
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $user, $pass);
