@@ -27,7 +27,7 @@ This system provides a **digital solution** that automates patient management, a
 
 The **Barangay Clinic Management System** is a web-based application designed to digitize and streamline healthcare management for barangay health centers. The system automates patient registration, appointment booking, medical records management, and Local Government Unit (LGU) reporting.
 
-### System Objectives
+**### System Objectives**
 
 - Eliminate double booking of appointments
 - Enforce doctor schedule validation
