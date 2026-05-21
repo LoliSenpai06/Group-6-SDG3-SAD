@@ -111,14 +111,14 @@ Open **XAMPP Control Panel** and start:
 
 ### Step 3: Open Project in VS Code
 
-#### Option A: Open VS Code then Open Folder
+#### A: Open VS Code then Open Folder
 1. Open **VS Code**
 2. Click **File** → **Open Folder**
 3. Navigate to: `C:\xampp\htdocs\`
 4. Create a new folder named `brgy_clinic`
 5. Select the folder and click **Select Folder**
 
-#### Option B: Copy Files First, Then Open
+#### B: Copy Files First, Then Open
 1. Copy the `SYSTEM_SOURCE_CODE` folder contents
 2. Paste to: `C:\xampp\htdocs\brgy_clinic\`
 3. Open VS Code
