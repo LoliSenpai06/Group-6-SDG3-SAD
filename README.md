@@ -58,9 +58,9 @@ C:\xampp\htdocs\brgy_clinic\
 ### Step 4: Import Database
 
 1. Open browser and go to: `http://localhost/phpmyadmin`
-2. Click **New** to create a database named `barangay_clinic`
+2. Click **New** to create a database named `barangay_system.`
 3. Click **Import** tab
-4. Choose file: `brgy_system.sql` from the `SYSTEM_SOURCE_CODE` folder
+4. Choose file: `barangay_system..sql` from the `SYSTEM_SOURCE_CODE` folder
 5. Click **Go**
 
 
@@ -96,11 +96,11 @@ Open **XAMPP Control Panel** and start:
 ### Step 4: Import Database
 
 1. Open browser and go to: `http://localhost/phpmyadmin`
-2. Click **New** to create a database named `barangay_clinic`
+2. Click **New** to create a database named `barangay_system.`
 3. Select `utf8_general_ci` as collation
 4. Click **Create**
 5. Click **Import** tab
-6. Click **Choose File** and select `brgy_system.sql` from your project folder
+6. Click **Choose File** and select `barangay_system.sql` from your project folder
 7. Click **Go**
 
 ---
@@ -114,7 +114,7 @@ Open `config/database.php` in VS Code and verify settings:
 $host = 'localhost';
 $user = 'root';
 $pass = '';
-$dbname = 'brgy_system';
+$dbname = 'barangay_system';
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $user, $pass);
