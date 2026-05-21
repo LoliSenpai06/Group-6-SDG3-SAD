@@ -1,4 +1,27 @@
-# Barangay Clinic Management System
+### Barangay Clinic Management System
+
+**SDG Goal 3: Good Health and Well-being**
+
+This project directly contributes to **SDG 3 - Ensure healthy lives and promote well-being for all at all ages** by:
+- Improving access to quality healthcare services at the barangay level
+- Digitizing patient records for better continuity of care
+- Reducing appointment waiting times and eliminating double booking
+- Supporting Local Government Units in health program monitoring and reporting
+
+---
+
+##Problem Statement
+
+Barangay health centers currently rely on **manual processes** including handwritten logbooks, and small notebooks to manage patient appointments and records. These informal systems lead to:
+
+- **Double booking** of patients with the same doctor at the same time
+- **Lost or damaged** patient records due to physical logbook deterioration
+- **Difficulty generating** monthly reports for Local Government Units
+- **No patient self-service** for checking appointment status or medical history
+- **Doctor schedule conflicts** because staff forget availability
+
+This system provides a **digital solution** that automates patient management, appointment scheduling, medical records, and LGU reporting.
+
 
 ## Project Overview
 
@@ -13,6 +36,18 @@ The **Barangay Clinic Management System** is a web-based application designed to
 
 ---
 
+ Contributing
+All group members have commit access to this repository. Each member has made significant contributions to their assigned modules.
+
+Commit History
+Paolo Basas - DFD Diagrams, System Objective, Documentation
+
+Marth Tumlos - Use Case Diagram, ERD, SQL Triggers and Views
+
+Rafael Sanchez - Login Page, UI/UX Design, Authentication
+
+Vhone Sildo - All Dashboards, Database, Testing
+
 ## User Roles
 
 | Role | Username | Password | Access |
@@ -22,7 +57,6 @@ The **Barangay Clinic Management System** is a web-based application designed to
 | **Doctor** | Dr. Santos | doctor123 | View schedule, add medical notes |
 | **Staff** | staff | staff123 | View residents, generate LGU reports |
 
----
 
 ## Technology Stack
 
