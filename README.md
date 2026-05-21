@@ -96,7 +96,7 @@ Open **XAMPP Control Panel** and start:
 ### Step 4: Import Database
 
 1. Open browser and go to: `http://localhost/phpmyadmin`
-2. Click **New** to create a database named `barangay_system.`
+2. Click **New** to create a database named `barangay_system`
 3. Select `utf8_general_ci` as collation
 4. Click **Create**
 5. Click **Import** tab
