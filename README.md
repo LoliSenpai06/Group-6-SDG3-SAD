@@ -10,7 +10,7 @@ This project directly contributes to **SDG 3 - Ensure healthy lives and promote 
 
 --
 
-##Problem Statement
+**##Problem Statement**
 
 Barangay health centers currently rely on **manual processes** including handwritten logbooks, and small notebooks to manage patient appointments and records. These informal systems lead to:
 
